@@ -42,8 +42,7 @@ function App() {
       <Button handler={() => { const newScore = [...score]; newScore[selected] += 1; setScore(newScore)  }} text="vote"/> 
       <h3>Best anecdote</h3>
       <Anecdote text={anecdotes[bestAnecdoteIndex]} score={score[bestAnecdoteIndex]} />
-      
-    </div>
+     </div>
   )
 }
 
