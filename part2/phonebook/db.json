@@ -2,23 +2,8 @@
   "persons": [
     {
       "name": "Arto Hellas",
-      "number": "2323",
-      "id": 1
-    },
-    {
-      "name": "Dan Abramov",
-      "number": "12-43-234345",
-      "id": 3
-    },
-    {
-      "name": "ebi4",
       "number": "222",
-      "id": 5
-    },
-    {
-      "name": "Htr",
-      "number": "232333",
-      "id": 7
+      "id": 1
     },
     {
       "name": "huy",
